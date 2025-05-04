@@ -1,2 +1,2 @@
 # Clawbot_Stacking_Challenge
-Clawbot with Miles Luka and Ashton
+This project is called the Clawbot Stacking Challenge. We built and programmed a Clawbot using VEX EXP and Python to pick up and stack 3D printed cubes in a special zone. The goal was to make the tallest and most stable stack without touching the robot after starting the program. We worked as a team to make sure the robot was built correctly and tested all the parts before coding. Then we wrote code to move the robot, grab cubes, and place them one by one. At first it was tricky to get the claw to hold the cubes properly and keep the stack from falling. But after testing and fixing a few problems, our Clawbot was able to complete the challenge successfully.
